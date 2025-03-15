@@ -7,7 +7,7 @@ import (
 
 func main() {
 	// nums
-	var nums = []int{1, 2, 3, 1}
+	strs := []string{"dog", "racecar", "car"}
 	// fmt.Println(leetcode.IsAnagram("anagram", "nagaram"))
-	fmt.Println(leetcode.ContainsDuplicate(nums))
+	fmt.Println(leetcode.LongestCommonPrefix(strs))
 }

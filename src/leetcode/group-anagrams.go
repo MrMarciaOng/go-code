@@ -1,6 +1,7 @@
 package leetcode
 import "sort"
-func groupAnagrams(strs []string) [][]string {
+
+func GroupAnagrams(strs []string) [][]string {
 	//create a slice for the result
 	//create a map to store the anagrams
 	anagramMap := make(map[string][]string)

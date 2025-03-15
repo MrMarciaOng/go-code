@@ -1,6 +1,6 @@
 package leetcode
 
-func findJudge(n int, trust [][]int) int {
+func FindJudge(n int, trust [][]int) int {
 	//town judge have trust issue
 	//everyone else trust judge besdies judge himself
 

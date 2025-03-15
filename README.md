@@ -11,14 +11,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 
 ## Structure
 
-Solutions are organized by problem categories (to be added as the repository grows):
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Dynamic Programming
-- etc.
+Solution for each leetcode question is by the question name itsself under `src/leetcode/question`
 
 ## Running the Solutions
 
